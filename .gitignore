@@ -1,0 +1,14 @@
+# ignore .venv folder
+.venv
+.venv/
+Sentiment/
+sentiment_2.0/
+model/
+logs/
+
+admissions.ipynb
+data/modeling_data.ipynb
+data/modeling_data_onehot.ipynb
+
+# ignore .env file
+.env
